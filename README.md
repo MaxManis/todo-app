@@ -1,7 +1,7 @@
 # React Todo App with API
 
 ## Todo App built on React + TypeScript with API.
-- [DEMO LINK](https://MaxManis.github.io/todo-app/)
+- [DEMO LINK](https://maxmanis.github.io/react_todo-app-with-api/)
 
 ## Commands in project:
 1. npm start - to start the project in development mode
